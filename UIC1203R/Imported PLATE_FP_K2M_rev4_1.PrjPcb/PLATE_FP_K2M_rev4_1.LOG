@@ -1,0 +1,307 @@
+PCAD Importer Log
+Project : PLATE_FP_K2M_rev4_1.PrjPcb
+
+Section : C:\Users\agest\Desktop\UIC1203R\Проект СПП\PLATE_FP_K2M_rev4_1.pcb
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 5979
+        Warning - 1 : Skipping Token defaultPinDes On Line 5980
+        Warning - 1 : Skipping Token defaultPinDes On Line 5981
+        Warning - 1 : Skipping Token defaultPinDes On Line 5982
+        Warning - 1 : Skipping Token defaultPinDes On Line 5983
+        Warning - 1 : Skipping Token defaultPinDes On Line 5984
+        Warning - 1 : Skipping Token defaultPinDes On Line 5985
+        Warning - 1 : Skipping Token defaultPinDes On Line 5986
+        Warning - 1 : Skipping Token defaultPinDes On Line 5987
+        Warning - 1 : Skipping Token defaultPinDes On Line 5988
+        Warning - 1 : Skipping Token defaultPinDes On Line 5989
+        Warning - 1 : Skipping Token defaultPinDes On Line 5990
+        Warning - 1 : Skipping Token defaultPinDes On Line 5991
+        Warning - 1 : Skipping Token defaultPinDes On Line 5992
+        Warning - 1 : Skipping Token defaultPinDes On Line 5993
+        Warning - 1 : Skipping Token defaultPinDes On Line 5994
+        Warning - 1 : Skipping Token defaultPinDes On Line 5995
+        Warning - 1 : Skipping Token defaultPinDes On Line 5996
+        Warning - 1 : Skipping Token defaultPinDes On Line 5997
+        Warning - 1 : Skipping Token defaultPinDes On Line 5998
+        Warning - 1 : Skipping Token defaultPinDes On Line 5999
+        Warning - 1 : Skipping Token defaultPinDes On Line 6000
+        Warning - 1 : Skipping Token defaultPinDes On Line 6001
+        Warning - 1 : Skipping Token defaultPinDes On Line 6002
+        Warning - 1 : Skipping Token defaultPinDes On Line 6003
+        Warning - 1 : Skipping Token defaultPinDes On Line 6004
+        Warning - 1 : Skipping Token defaultPinDes On Line 6005
+        Warning - 1 : Skipping Token defaultPinDes On Line 6006
+        Warning - 1 : Skipping Token defaultPinDes On Line 6007
+        Warning - 1 : Skipping Token defaultPinDes On Line 6008
+        Warning - 1 : Skipping Token defaultPinDes On Line 6009
+        Warning - 1 : Skipping Token defaultPinDes On Line 6010
+        Warning - 1 : Skipping Token defaultPinDes On Line 6011
+        Warning - 1 : Skipping Token defaultPinDes On Line 6012
+        Warning - 1 : Skipping Token defaultPinDes On Line 6013
+        Warning - 1 : Skipping Token defaultPinDes On Line 6014
+        Warning - 1 : Skipping Token defaultPinDes On Line 6015
+        Warning - 1 : Skipping Token defaultPinDes On Line 6016
+        Warning - 1 : Skipping Token defaultPinDes On Line 6017
+        Warning - 1 : Skipping Token defaultPinDes On Line 6018
+        Warning - 1 : Skipping Token defaultPinDes On Line 6019
+        Warning - 1 : Skipping Token defaultPinDes On Line 6020
+        Warning - 1 : Skipping Token defaultPinDes On Line 6021
+        Warning - 1 : Skipping Token defaultPinDes On Line 6022
+        Warning - 1 : Skipping Token defaultPinDes On Line 6023
+        Warning - 1 : Skipping Token defaultPinDes On Line 6024
+        Warning - 1 : Skipping Token defaultPinDes On Line 6025
+        Warning - 1 : Skipping Token defaultPinDes On Line 6026
+        Warning - 1 : Skipping Token defaultPinDes On Line 6056
+        Warning - 1 : Skipping Token defaultPinDes On Line 6057
+        Warning - 1 : Skipping Token defaultPinDes On Line 6080
+        Warning - 1 : Skipping Token defaultPinDes On Line 6081
+        Warning - 1 : Skipping Token defaultPinDes On Line 6104
+        Warning - 1 : Skipping Token defaultPinDes On Line 6105
+        Warning - 1 : Skipping Token defaultPinDes On Line 6132
+        Warning - 1 : Skipping Token defaultPinDes On Line 6133
+        Warning - 1 : Skipping Token defaultPinDes On Line 6160
+        Warning - 1 : Skipping Token defaultPinDes On Line 6161
+        Warning - 1 : Skipping Token defaultPinDes On Line 6184
+        Warning - 1 : Skipping Token defaultPinDes On Line 6202
+        Warning - 1 : Skipping Token defaultPinDes On Line 6203
+        Warning - 1 : Skipping Token defaultPinDes On Line 6204
+        Warning - 1 : Skipping Token defaultPinDes On Line 6205
+        Warning - 1 : Skipping Token defaultPinDes On Line 6206
+        Warning - 1 : Skipping Token defaultPinDes On Line 6207
+        Warning - 1 : Skipping Token defaultPinDes On Line 6208
+        Warning - 1 : Skipping Token defaultPinDes On Line 6209
+        Warning - 1 : Skipping Token defaultPinDes On Line 6210
+        Warning - 1 : Skipping Token defaultPinDes On Line 6211
+        Warning - 1 : Skipping Token defaultPinDes On Line 6229
+        Warning - 1 : Skipping Token attachedSymbol On Line 6261
+        Warning - 1 : Skipping Token attachedSymbol On Line 6283
+        Warning - 1 : Skipping Token attachedSymbol On Line 6351
+        Warning - 1 : Skipping Token attachedSymbol On Line 6418
+        Warning - 1 : Skipping Token attachedSymbol On Line 6439
+        Warning - 1 : Skipping Token attachedSymbol On Line 6469
+        Warning - 1 : Skipping Token attachedSymbol On Line 6499
+        Warning - 1 : Skipping Token attachedSymbol On Line 6520
+        Warning - 1 : Skipping Token refPointSize On Line 6932
+        Warning - 1 : Skipping Token infoPointSize On Line 6933
+        Warning - 1 : Skipping Token gluePointSize On Line 6934
+        Warning - 1 : Skipping Token pickPointSize On Line 6935
+        Warning - 1 : Skipping Token testPointSize On Line 6936
+        Warning - 1 : Skipping Token refPointSizePrint On Line 6937
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 6938
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 6939
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 6940
+        Warning - 1 : Skipping Token testPointSizePrint On Line 6941
+        Warning - 1 : Skipping Token solderFlowDirection On Line 6942
+        Warning - 1 : Skipping Token autoPlowCopperPours On Line 6943
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 6944
+        Warning - 1 : Skipping Token netNameRef On Line 7677
+        Warning - 1 : Skipping Token island On Line 7679
+        Warning - 1 : Skipping Token netNameRef On Line 8479
+        Warning - 1 : Skipping Token island On Line 8481
+        Warning - 1 : Skipping Token netNameRef On Line 8525
+        Warning - 1 : Skipping Token island On Line 8527
+        Warning - 1 : Skipping Token netNameRef On Line 8608
+        Warning - 1 : Skipping Token island On Line 8610
+        Warning - 1 : Skipping Token netNameRef On Line 8689
+        Warning - 1 : Skipping Token island On Line 8691
+        Warning - 1 : Skipping Token netNameRef On Line 8775
+        Warning - 1 : Skipping Token island On Line 8777
+        Warning - 1 : Skipping Token netNameRef On Line 9304
+        Warning - 1 : Skipping Token island On Line 9306
+        Warning - 1 : Skipping Token netNameRef On Line 9886
+        Warning - 1 : Skipping Token island On Line 9888
+        Warning - 1 : Skipping Token netNameRef On Line 10660
+        Warning - 1 : Skipping Token island On Line 10662
+        Warning - 1 : Skipping Token netNameRef On Line 11144
+        Warning - 1 : Skipping Token island On Line 11146
+        Warning - 1 : Skipping Token printDrawOrder On Line 11472
+        Warning - 1 : Skipping Token printDrawOrder On Line 11946
+        Warning - 1 : Skipping Token printDrawOrder On Line 12427
+        Warning - 1 : Skipping Token printDrawOrder On Line 12906
+        Warning - 1 : Skipping Token printDrawOrder On Line 13386
+        Warning - 1 : Skipping Token printDrawOrder On Line 13865
+        Warning - 1 : Skipping Token drillSymSettings On Line 14328
+        Warning - 1 : Skipping Token gerberSettings On Line 14334
+        Warning - 1 : Skipping Token ncDrillSettings On Line 15137
+        Warning - 1 : Skipping Token programState On Line 15172
+        Warning - 1 : Skipping Token displayDrawOrder On Line 15217
+        Warning - 1 : Skipping Token reportSettings On Line 15512
+        Warning - 1 : Skipping Token odbSettings On Line 16611
+    EndSection
+
+    Section : Import Messages
+        Warning : Rounded Rectangle solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Rounded Rectangle solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Ellipse solder shape converted to solid region
+        Warning : Rounded Rectangle solder shape converted to solid region
+        Warning : Rounded Rectangle solder shape converted to solid region
+    EndSection
+EndSection
+
+Section : C:\Users\agest\Desktop\UIC1203R\Проект СПП\PLATE_FP_K2M_rev4_1.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 314
+        Warning - 1 : Skipping Token defaultPinDes On Line 323
+        Warning - 1 : Skipping Token defaultPinDes On Line 332
+        Warning - 1 : Skipping Token defaultPinDes On Line 341
+        Warning - 1 : Skipping Token defaultPinDes On Line 350
+        Warning - 1 : Skipping Token defaultPinDes On Line 359
+        Warning - 1 : Skipping Token defaultPinDes On Line 368
+        Warning - 1 : Skipping Token defaultPinDes On Line 377
+        Warning - 1 : Skipping Token defaultPinDes On Line 386
+        Warning - 1 : Skipping Token defaultPinDes On Line 395
+        Warning - 1 : Skipping Token defaultPinDes On Line 429
+        Warning - 1 : Skipping Token defaultPinDes On Line 437
+        Warning - 1 : Skipping Token defaultPinDes On Line 456
+        Warning - 1 : Skipping Token defaultPinDes On Line 472
+        Warning - 1 : Skipping Token defaultPinDes On Line 480
+        Warning - 1 : Skipping Token defaultPinDes On Line 488
+        Warning - 1 : Skipping Token defaultPinDes On Line 496
+        Warning - 1 : Skipping Token defaultPinDes On Line 504
+        Warning - 1 : Skipping Token defaultPinDes On Line 512
+        Warning - 1 : Skipping Token defaultPinDes On Line 520
+        Warning - 1 : Skipping Token defaultPinDes On Line 528
+        Warning - 1 : Skipping Token defaultPinDes On Line 536
+        Warning - 1 : Skipping Token defaultPinDes On Line 544
+        Warning - 1 : Skipping Token defaultPinDes On Line 552
+        Warning - 1 : Skipping Token defaultPinDes On Line 560
+        Warning - 1 : Skipping Token defaultPinDes On Line 568
+        Warning - 1 : Skipping Token defaultPinDes On Line 576
+        Warning - 1 : Skipping Token defaultPinDes On Line 584
+        Warning - 1 : Skipping Token defaultPinDes On Line 592
+        Warning - 1 : Skipping Token defaultPinDes On Line 600
+        Warning - 1 : Skipping Token defaultPinDes On Line 608
+        Warning - 1 : Skipping Token defaultPinDes On Line 616
+        Warning - 1 : Skipping Token defaultPinDes On Line 624
+        Warning - 1 : Skipping Token defaultPinDes On Line 632
+        Warning - 1 : Skipping Token defaultPinDes On Line 640
+        Warning - 1 : Skipping Token defaultPinDes On Line 648
+        Warning - 1 : Skipping Token defaultPinDes On Line 656
+        Warning - 1 : Skipping Token defaultPinDes On Line 664
+        Warning - 1 : Skipping Token defaultPinDes On Line 672
+        Warning - 1 : Skipping Token defaultPinDes On Line 680
+        Warning - 1 : Skipping Token defaultPinDes On Line 688
+        Warning - 1 : Skipping Token defaultPinDes On Line 696
+        Warning - 1 : Skipping Token defaultPinDes On Line 704
+        Warning - 1 : Skipping Token defaultPinDes On Line 712
+        Warning - 1 : Skipping Token defaultPinDes On Line 720
+        Warning - 1 : Skipping Token defaultPinDes On Line 728
+        Warning - 1 : Skipping Token defaultPinDes On Line 736
+        Warning - 1 : Skipping Token defaultPinDes On Line 744
+        Warning - 1 : Skipping Token defaultPinDes On Line 752
+        Warning - 1 : Skipping Token defaultPinDes On Line 760
+        Warning - 1 : Skipping Token defaultPinDes On Line 768
+        Warning - 1 : Skipping Token defaultPinDes On Line 776
+        Warning - 1 : Skipping Token defaultPinDes On Line 784
+        Warning - 1 : Skipping Token defaultPinDes On Line 792
+        Warning - 1 : Skipping Token defaultPinDes On Line 800
+        Warning - 1 : Skipping Token defaultPinDes On Line 808
+        Warning - 1 : Skipping Token defaultPinDes On Line 816
+        Warning - 1 : Skipping Token defaultPinDes On Line 824
+        Warning - 1 : Skipping Token defaultPinDes On Line 832
+        Warning - 1 : Skipping Token defaultPinDes On Line 840
+        Warning - 1 : Skipping Token defaultPinDes On Line 848
+        Warning - 1 : Skipping Token defaultPinDes On Line 914
+        Warning - 1 : Skipping Token defaultPinDes On Line 922
+        Warning - 1 : Skipping Token defaultPinDes On Line 942
+        Warning - 1 : Skipping Token defaultPinDes On Line 950
+        Warning - 1 : Skipping Token defaultPinDes On Line 968
+        Warning - 1 : Skipping Token defaultPinDes On Line 991
+        Warning - 1 : Skipping Token xRef On Line 994
+        Warning - 1 : Skipping Token defaultPinDes On Line 1008
+        Warning - 1 : Skipping Token xRef On Line 1011
+        Warning - 1 : Skipping Token xRef On Line 1013
+        Warning - 1 : Skipping Token xRef On Line 1015
+        Warning - 1 : Skipping Token xRef On Line 1017
+        Warning - 1 : Skipping Token xRef On Line 1019
+        Warning - 1 : Skipping Token xRef On Line 1021
+        Warning - 1 : Skipping Token xRef On Line 1023
+        Warning - 1 : Skipping Token defaultPinDes On Line 1037
+        Warning - 1 : Skipping Token xRef On Line 1040
+        Warning - 1 : Skipping Token xRef On Line 1042
+        Warning - 1 : Skipping Token xRef On Line 1044
+        Warning - 1 : Skipping Token gridDfns On Line 1861
+        Warning - 1 : Skipping Token refPointSize On Line 1925
+        Warning - 1 : Skipping Token infoPointSize On Line 1926
+        Warning - 1 : Skipping Token junctionSize On Line 1927
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1928
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1929
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1930
+        Warning - 1 : Skipping Token PrintRegion On Line 2646
+        Warning - 1 : Skipping Token PrintRegion On Line 2662
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 2666
+        Warning - 1 : Skipping Token layerState On Line 2673
+        Warning - 1 : Skipping Token ecoState On Line 2684
+        Warning - 1 : Skipping Token currentTextStyle On Line 2685
+        Warning - 1 : Skipping Token reportSettings On Line 2688
+    EndSection
+
+    Section : Generating SCH Library - PLATE_FP_K2M_rev4_1.SchLib
+        Warning : Create component variant [BUS_CONNECTOR_VARIANT_1] for component with original name [BUS_CONNECTOR]
+        Warning : Create component variant [BUS_CONNECTOR_VARIANT_2] for component with original name [BUS_CONNECTOR]
+    EndSection
+
+    Section : Generating SCH Sheet - First_Sheet.SCHDOC
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : P-CAD Port [CDRY] will be replaced by a net label at location [2007.874mil : 6830.709mil]
+        Warning : P-CAD Port [ERUN] will be replaced by a net label at location [2007.874mil : 7224.409mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [2500mil : 2795.276mil]
+        Warning : P-CAD Port [1.8VA] will be replaced by a net label at location [2500mil : 3779.528mil]
+        Warning : P-CAD Port [XI] will be replaced by a net label at location [2500mil : 4173.228mil]
+        Warning : P-CAD Port [MISO] will be replaced by a net label at location [2500mil : 4566.929mil]
+        Warning : P-CAD Port [MOSI] will be replaced by a net label at location [2500mil : 4763.779mil]
+        Warning : P-CAD Port [SCLK] will be replaced by a net label at location [2500mil : 4960.63mil]
+        Warning : P-CAD Port [SCS] will be replaced by a net label at location [2500mil : 5157.48mil]
+        Warning : P-CAD Port [3.3VA] will be replaced by a net label at location [2500mil : 5551.181mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [2500mil : 5944.882mil]
+        Warning : P-CAD Port [1.8VA] will be replaced by a net label at location [2598.425mil : 7125.984mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [2500mil : 7322.835mil]
+        Warning : P-CAD Port [1.8VA] will be replaced by a net label at location [2598.425mil : 8307.087mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [2500mil : 8897.638mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12834.646mil : 4370.079mil]
+        Warning : P-CAD Port [3.3VA] will be replaced by a net label at location [12834.646mil : 4763.779mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12834.646mil : 4960.63mil]
+        Warning : P-CAD Port [ERUN] will be replaced by a net label at location [12736.22mil : 6338.583mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12834.646mil : 6732.283mil]
+        Warning : P-CAD Port [CDRY] will be replaced by a net label at location [12736.22mil : 7322.835mil]
+        Warning : P-CAD Port [3.3VA] will be replaced by a net label at location [2598.425mil : 9881.89mil]
+        Warning : P-CAD Port [3.3VA] will be replaced by a net label at location [2106.299mil : 6633.858mil]
+        Warning : P-CAD Port [XI] will be replaced by a net label at location [2106.299mil : 7027.559mil]
+        Warning : P-CAD Port [SCS] will be replaced by a net label at location [2106.299mil : 7421.26mil]
+        Warning : P-CAD Port [MISO] will be replaced by a net label at location [2106.299mil : 7618.11mil]
+        Warning : P-CAD Port [SCLK] will be replaced by a net label at location [2106.299mil : 8011.811mil]
+        Warning : P-CAD Port [1.8VA] will be replaced by a net label at location [2106.299mil : 8208.661mil]
+        Warning : P-CAD Port [MOSI] will be replaced by a net label at location [2106.299mil : 7814.961mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [2106.299mil : 8405.512mil]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet2.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet2.SCHDOC
+    EndSection
+EndSection
