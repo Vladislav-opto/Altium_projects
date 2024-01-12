@@ -115,6 +115,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MB\Design Rule Check - PCB_MB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
