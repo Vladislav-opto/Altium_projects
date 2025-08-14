@@ -68,7 +68,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=..\..\..\..\Altium_libraries\Active.PcbLib
+DocumentPath=..\VPL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=..\..\..\..\Altium_libraries\Passive.PcbLib
+DocumentPath=..\Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=..\..\..\..\Altium_libraries\Schlib.SchLib
+DocumentPath=..\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Project Outputs for Mez\CAMtastic1.Cam
+DocumentPath=..\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -130,94 +130,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[Document7]
-DocumentPath=Project Outputs for Mez\CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Mez\Mez-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Mez\Mez.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Mez\Mez.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Mez\Mez.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Mez\Mez.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Mez\Mez.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Mez\Mez.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Mez\Mez.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Mez\Mez.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Mez\Mez.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Mez\Mez.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Mez\Mez.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Mez\Mez.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Mez\Mez.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Mez\Mez.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Mez\Mez.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Mez\Mez.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Mez\Mez.RUL
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
