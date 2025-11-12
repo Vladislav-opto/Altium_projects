@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IPODKDNG
 
 [Document3]
-DocumentPath=..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Active.PcbLib
+DocumentPath=..\..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Passive.PcbLib
+DocumentPath=..\..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Schlib.SchLib
+DocumentPath=..\..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\VPL.SchLib
+DocumentPath=..\..\..\..\..\..\agest\Downloads\Telegram Desktop\Altium Libs\VPL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
