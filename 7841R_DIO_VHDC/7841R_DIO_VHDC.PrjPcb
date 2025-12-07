@@ -142,10 +142,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXKULYLS
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 7841R_DIO_VHDC\Design Rule Check - DIO.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
