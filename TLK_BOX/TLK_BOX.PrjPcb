@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GSPKLHNF
 
 [Document4]
 DocumentPath=..\..\Altium_library\Passive.PcbLib
