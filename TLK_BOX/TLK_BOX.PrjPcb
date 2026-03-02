@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WNALLTTR
 
 [Document5]
 DocumentPath=..\..\Altium_library\Schlib.SchLib
@@ -175,10 +175,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for TLK_BOX\Design Rule Check - PCB_TLK.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
