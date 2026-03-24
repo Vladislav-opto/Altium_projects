@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GSPKLHNF
 
 [Document2]
 DocumentPath=..\Altium_library\Passive.PcbLib
@@ -115,7 +115,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AHBSTIAQ
 
 [Document6]
-DocumentPath=GMAX0505_MEZ.PcbDoc
+DocumentPath=0505.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TKABCVTU
+DocumentUniqueId=PFALFKYG
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GMAX0505_MEZ\Design Rule Check - 0505.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for GMAX0505_MEZ\Design Rule Check - GMAX0505_MEZ.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -261,7 +269,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MG2400 series Printer
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
