@@ -142,10 +142,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQBSNTKV
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for GMAX4651_MEZ\Design Rule Check - 4651_MEZ.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
