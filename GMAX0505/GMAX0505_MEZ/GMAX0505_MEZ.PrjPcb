@@ -142,10 +142,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for GMAX0505_MEZ\Design Rule Check - 0505_MEZ.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
